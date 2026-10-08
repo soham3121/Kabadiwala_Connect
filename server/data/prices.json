@@ -1,0 +1,128 @@
+[
+  {
+    "category": "PCBs",
+    "unit": "kg",
+    "currentRate": 380,
+    "changePercent": "+4.2%",
+    "trend": "up",
+    "rangeMin": 350,
+    "rangeMax": 410,
+    "spoken_en": "Computer Motherboards and PCBs are currently trading at 380 rupees per kilogram, up 4 percent this week.",
+    "spoken_hi": "कंप्यूटर मदरबोर्ड और पीसीबी की आज की दर 380 रुपये प्रति किलो है। इस हफ्ते दाम 4 प्रतिशत बढ़े हैं।",
+    "spoken_mr": "कॉम्प्युटर मदरबोर्ड आणि पीसीबीचा आजचा दर 380 रुपये प्रति किलो आहे. या आठवड्यात दर 4 टक्क्यांनी वाढले आहेत.",
+    "history": [
+      { "day": "Day 1", "rate": 365 },
+      { "day": "Day 2", "rate": 370 },
+      { "day": "Day 3", "rate": 368 },
+      { "day": "Day 4", "rate": 375 },
+      { "day": "Day 5", "rate": 372 },
+      { "day": "Day 6", "rate": 378 },
+      { "day": "Today", "rate": 380 }
+    ]
+  },
+  {
+    "category": "Cables",
+    "unit": "kg",
+    "currentRate": 460,
+    "changePercent": "+2.1%",
+    "trend": "up",
+    "rangeMin": 440,
+    "rangeMax": 485,
+    "spoken_en": "Copper cables and wires are trading at 460 rupees per kilogram. Do not burn them.",
+    "spoken_hi": "तांबे के केबल और तार की दर 460 रुपये प्रति किलो है। कृपया इन्हें जलाएं नहीं।",
+    "spoken_mr": "तांब्याच्या केबल्स आणि वायर्सचा दर 460 रुपये प्रति किलो आहे. कृपया जाळू नका.",
+    "history": [
+      { "day": "Day 1", "rate": 450 },
+      { "day": "Day 2", "rate": 452 },
+      { "day": "Day 3", "rate": 455 },
+      { "day": "Day 4", "rate": 458 },
+      { "day": "Day 5", "rate": 456 },
+      { "day": "Day 6", "rate": 459 },
+      { "day": "Today", "rate": 460 }
+    ]
+  },
+  {
+    "category": "Batteries",
+    "unit": "kg",
+    "currentRate": 240,
+    "changePercent": "+5.5%",
+    "trend": "up",
+    "rangeMin": 220,
+    "rangeMax": 260,
+    "spoken_en": "Lithium batteries are trading at 240 rupees per kilogram due to high lithium and cobalt demand.",
+    "spoken_hi": "लिथियम बैटरी की दर 240 रुपये प्रति किलो है। लिथियम और कोबाल्ट की भारी मांग है।",
+    "spoken_mr": "लिथियम बॅटरीचा दर 240 रुपये प्रति किलो आहे. लिथियम आणि कोबाल्टची मोठी मागणी आहे.",
+    "history": [
+      { "day": "Day 1", "rate": 225 },
+      { "day": "Day 2", "rate": 228 },
+      { "day": "Day 3", "rate": 230 },
+      { "day": "Day 4", "rate": 235 },
+      { "day": "Day 5", "rate": 235 },
+      { "day": "Day 6", "rate": 238 },
+      { "day": "Today", "rate": 240 }
+    ]
+  },
+  {
+    "category": "Motors & Magnets",
+    "unit": "kg",
+    "currentRate": 140,
+    "changePercent": "0.0%",
+    "trend": "stable",
+    "rangeMin": 130,
+    "rangeMax": 150,
+    "spoken_en": "Electric motors and magnet assemblies are stable at 140 rupees per kilogram.",
+    "spoken_hi": "इलेक्ट्रिक मोटर और चुंबक की दर 140 रुपये प्रति किलो पर स्थिर है।",
+    "spoken_mr": "इलेक्ट्रिक मोटर आणि मॅग्नेटचा दर 140 रुपये प्रति किलो स्थिर आहे.",
+    "history": [
+      { "day": "Day 1", "rate": 138 },
+      { "day": "Day 2", "rate": 140 },
+      { "day": "Day 3", "rate": 140 },
+      { "day": "Day 4", "rate": 139 },
+      { "day": "Day 5", "rate": 140 },
+      { "day": "Day 6", "rate": 140 },
+      { "day": "Today", "rate": 140 }
+    ]
+  },
+  {
+    "category": "CRTs",
+    "unit": "piece",
+    "currentRate": 180,
+    "changePercent": "-1.5%",
+    "trend": "down",
+    "rangeMin": 160,
+    "rangeMax": 200,
+    "spoken_en": "CRT monitors and TV tubes are 180 rupees per piece with free safe recycler pickup.",
+    "spoken_hi": "सीआरटी मॉनिटर की दर 180 रुपये प्रति पीस है। रीसाइक्लर सुरक्षित पिकअप प्रदान करता है।",
+    "spoken_mr": "सीआरटी मॉनिटरचा दर 180 रुपये प्रति नग आहे. रीसायकलर सुरक्षित पिकअप देईल.",
+    "history": [
+      { "day": "Day 1", "rate": 185 },
+      { "day": "Day 2", "rate": 182 },
+      { "day": "Day 3", "rate": 180 },
+      { "day": "Day 4", "rate": 180 },
+      { "day": "Day 5", "rate": 178 },
+      { "day": "Day 6", "rate": 180 },
+      { "day": "Today", "rate": 180 }
+    ]
+  },
+  {
+    "category": "Plastics",
+    "unit": "kg",
+    "currentRate": 45,
+    "changePercent": "+3.0%",
+    "trend": "up",
+    "rangeMin": 40,
+    "rangeMax": 50,
+    "spoken_en": "Engineering e-waste plastics ABS is trading at 45 rupees per kilogram.",
+    "spoken_hi": "ई-कचरा इंजीनियरिंग प्लास्टिक एबीएस 45 रुपये प्रति किलो बिक रहा है।",
+    "spoken_mr": "ई-कचरा इंजिनिअरिंग प्लॅस्टिक एबीएस 45 रुपये प्रति किलो विकले जात आहे.",
+    "history": [
+      { "day": "Day 1", "rate": 42 },
+      { "day": "Day 2", "rate": 43 },
+      { "day": "Day 3", "rate": 43 },
+      { "day": "Day 4", "rate": 44 },
+      { "day": "Day 5", "rate": 44 },
+      { "day": "Day 6", "rate": 45 },
+      { "day": "Today", "rate": 45 }
+    ]
+  }
+]
